@@ -1,8 +1,7 @@
-# cookbook
-A clean, quick reference for common issues faced in the context of the FIRST Tech Challenge.
+# Seattle Solvers Official Open Source Docs
+This is the official documentation for FTC Team 23511, the Seattle Solvers.
 
-## get in touch
-Join our [Discord server](https://discord.gg/7KwsaztygU), or reach out to [me](https://discord.com/users/280024224121356288) directly.
+Please note: while this mdBook is open-source, there is no guarantee that any pull requests/issues will be addressed or merged.
 
-## contributing
-Check out [the contributing page.](./contributing.md)
+## Contributing
+Check out [the contributing page.](src/odometry/contributors.md)
